@@ -6,3 +6,6 @@
 **I'm Rodrigo, a Computer Science student with a lot of interests but no ideia of where to go in the programming world.**
 *Currently unemployed, but with 8+ years of experience as "The Tech Guy" in my family.*
 
+## :writing_hand: Atualmente estudando...
+- PHP 
+- Javascript
